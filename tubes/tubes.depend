@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733194623 source:d:\semester 3\strukdat\tubes\tubes\main.cpp
+	<iostream>
+	"manager.h"
+
+1733302814 source:d:\semester 3\strukdat\tubes\tubes\manajerprojek.cpp
+	"manager.h"
+	<iostream>
+
+1733302416 d:\semester 3\strukdat\tubes\tubes\manager.h
+	<iostream>
+	<string>
+
